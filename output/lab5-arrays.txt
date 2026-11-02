@@ -1,0 +1,8 @@
+Before Sorting: 5 3 8 1 2 
+After Sorting:  1 2 3 5 8 
+Maximum: 8
+Minimum: 1
+
+2D Array (2 x 3):
+1 2 3 
+4 5 6 

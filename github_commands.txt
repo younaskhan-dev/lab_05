@@ -1,0 +1,3 @@
+git add .
+git commit -m "Lab 5: Arrays implemented with Bubble Sort"
+git push
